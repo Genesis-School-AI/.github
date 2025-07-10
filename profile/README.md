@@ -37,7 +37,7 @@ Genesis-School-AI มุ่งหวังที่จะยกระดับ�
 | Web Interface    | Next.js, JavaScript, TailwindCSS                      |
 | AI API           | Python, FastAPI, Gemini Pro, Retrieval-Augmented Gen |
 | ระบบบันทึกเสียง  | Python, Raspberry Pi, thonburian-whisper             |
-| การจัดเก็บข้อมูล | JSON, Vector DB (เช่น Chroma หรือ FAISS)             |
+| การจัดเก็บข้อมูล | MySQL, Supabase                                       |
 | โมเดล AI         | Gemini Pro / LLM ภาษาไทย (รองรับการ embed ข้อมูล)     |
 
 ---
